@@ -1,0 +1,23 @@
+Elemento no índice par: 54
+Elemento no índice par: 34
+Elemento no índice par: 25
+Elemento no índice par: 24
+Elemento no índice par: 10
+Elemento par: 54
+Elemento par: 34
+Elemento par: 60
+Elemento par: 58
+Elemento par: 24
+Elemento par: 10
+Elemento na ordem inversa: 49
+Elemento na ordem inversa: 10
+Elemento na ordem inversa: 85
+Elemento na ordem inversa: 24
+Elemento na ordem inversa: 58
+Elemento na ordem inversa: 25
+Elemento na ordem inversa: 60
+Elemento na ordem inversa: 34
+Elemento na ordem inversa: 63
+Elemento na ordem inversa: 54
+Primeiro elemento: 54
+Último elemento: 49
